@@ -9,3 +9,6 @@ This task has three parts
 * Combining the two tasks to build a face detector
 
 Please see the Jupyter Notebook to understand  the project in detail
+
+
+### Uncomment the last line on 'combine_part1_and_part2.py' and run the file using a sample image to automatically detect the faces using Haar Cascade and detect facial keypoints using CNN.
